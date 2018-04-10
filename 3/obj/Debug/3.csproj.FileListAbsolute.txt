@@ -1,0 +1,6 @@
+E:\ASPprojects\ProjectEuler\3\bin\Debug\3.exe.config
+E:\ASPprojects\ProjectEuler\3\bin\Debug\3.exe
+E:\ASPprojects\ProjectEuler\3\bin\Debug\3.pdb
+E:\ASPprojects\ProjectEuler\3\obj\Debug\3.csprojResolveAssemblyReference.cache
+E:\ASPprojects\ProjectEuler\3\obj\Debug\3.exe
+E:\ASPprojects\ProjectEuler\3\obj\Debug\3.pdb

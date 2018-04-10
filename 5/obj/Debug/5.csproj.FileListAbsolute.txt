@@ -1,0 +1,6 @@
+E:\ASPprojects\ProjectEuler\5\bin\Debug\5.exe.config
+E:\ASPprojects\ProjectEuler\5\bin\Debug\5.exe
+E:\ASPprojects\ProjectEuler\5\bin\Debug\5.pdb
+E:\ASPprojects\ProjectEuler\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+E:\ASPprojects\ProjectEuler\5\obj\Debug\5.exe
+E:\ASPprojects\ProjectEuler\5\obj\Debug\5.pdb

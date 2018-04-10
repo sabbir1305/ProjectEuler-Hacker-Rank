@@ -1,0 +1,6 @@
+E:\ASPprojects\ProjectEuler\h1\bin\Debug\h1.exe.config
+E:\ASPprojects\ProjectEuler\h1\bin\Debug\h1.exe
+E:\ASPprojects\ProjectEuler\h1\bin\Debug\h1.pdb
+E:\ASPprojects\ProjectEuler\h1\obj\Debug\h1.csprojResolveAssemblyReference.cache
+E:\ASPprojects\ProjectEuler\h1\obj\Debug\h1.exe
+E:\ASPprojects\ProjectEuler\h1\obj\Debug\h1.pdb
